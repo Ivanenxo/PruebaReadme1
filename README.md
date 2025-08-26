@@ -14,7 +14,10 @@ O desde la Consola del Administrador de Paquetes en Visual Studio:
 
 
 Install-Package MtxBasicLibraryExt
-📖 Ejemplo de uso
+```
+
+## 📖 Ejemplo de uso
+```powershell
 csharp
 Copiar
 Editar
@@ -69,7 +72,10 @@ public class persona
     public string Direccion { get; set; }
     public string Telefono { get; set; }
 }
-📌 Compatibilidad
+
+```
+---
+## 📌 Compatibilidad
 ✅ .NET Framework 4.8
 
 ✅ .NET Standard 2.0
@@ -78,7 +84,8 @@ public class persona
 
 ✅ .NET 8
 
-📜 Licencia
+---
+## 📜 Licencia
 Este proyecto está bajo la licencia MIT.
 Eres libre de usarlo, modificarlo y distribuirlo, siempre que mantengas el aviso de licencia.
 
