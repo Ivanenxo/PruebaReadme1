@@ -16,9 +16,11 @@ O desde la Consola del Administrador de Paquetes en Visual Studio:
 Install-Package MtxBasicLibraryExt
 ```
 
+
+![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
 ## 📖 Ejemplo de uso
 ```powershell
-![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
+
 Copiar
 Editar
 using BasicLibraryExt;
