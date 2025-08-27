@@ -17,7 +17,8 @@ Install-Package MtxBasicLibraryExt
 ```
 
 
-![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ## 📖 Ejemplo de uso
 ```powershell
 
